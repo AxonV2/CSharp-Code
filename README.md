@@ -52,5 +52,5 @@ My most recent program, I made sure to stick to SOLID principles and make everyt
 	Method Overloading
 	Constructor Chaining 
 	Generic usage
-	SOLID Adherence
+	Adherence to SOLID principles
 	
