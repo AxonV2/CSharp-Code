@@ -26,7 +26,9 @@ The other half of this library is just a, very messy, testing ground where I tes
 
 #### First Project
 My first ever 'real' project, code wise, an absolute mess that doesn't run or look nice.Inside you'll find the database I used and its diagram.
+
 Built with an MVC architectural pattern, it simulates an admin program for a public transport system (Buses).
+
 The user can: add buses and stops, connect a bus to a stop at a certain time and day, and search through the database with a nice amount of filters.   
 
 
@@ -40,6 +42,7 @@ Simple console applications where I tested these couple of concepts:
 
 #### WFP Async Reference
 Two Async test applications where a speed comparison is made between async and non-async methods.
+
 The Async reference program uses cancellation tokens for a cancel button and a progress reporter for a progress bar.
 
 #### WFP Abstractions, Inheritance
