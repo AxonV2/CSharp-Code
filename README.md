@@ -1,2 +1,2 @@
 # CSharp-Code
-Programs and other snippets of projects.
+Just some random code snippets and programs to show off. 
