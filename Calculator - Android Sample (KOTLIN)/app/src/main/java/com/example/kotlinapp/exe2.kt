@@ -8,22 +8,18 @@ import android.widget.TextView
 import kotlinx.android.synthetic.main.activity_exe2.*
 
 class exe2 : AppCompatActivity() {
-
-    private lateinit var view : TextView
-
-    //Same thing???
-    //var f : TextView = TODO()
-
+    
+    lateinit var button : Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_exe2)
 
-        view = findViewById(R.id.NumberView)
+        button = findViewById<Button>(R.id.button7)
     }
 
     private var xd = 2.0
-    var F : String = "";
+    private var F : String = "";
 
 
 

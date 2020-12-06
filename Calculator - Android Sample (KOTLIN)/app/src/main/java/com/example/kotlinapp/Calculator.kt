@@ -11,13 +11,15 @@ import kotlin.math.round
 
 class Calculator : AppCompatActivity()
 {
-      var button : Button = TODO()
+    private lateinit var view : TextView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_exe4)
 
-        button = findViewById<Button>(R.id.button7)
+        view = findViewById(R.id.NumberView)
+
+
     }
 
     private var Auto_Inference = Double.NaN;
