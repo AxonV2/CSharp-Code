@@ -1,0 +1,50 @@
+C:\Users\Inês\OneDrive\1ano\2semestre\Prog_ori_obj\Trabalho1\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\Inês\OneDrive\1ano\2semestre\Prog_ori_obj\Trabalho1\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\Inês\OneDrive\1ano\2semestre\Prog_ori_obj\Trabalho1\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Inês\OneDrive\1ano\2semestre\Prog_ori_obj\Trabalho1\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Inês\OneDrive\1ano\2semestre\Prog_ori_obj\Trabalho1\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\Inês\OneDrive\1ano\2semestre\Prog_ori_obj\Trabalho1\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\Inês\OneDrive\1ano\2semestre\Prog_ori_obj\Trabalho1\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Inês\OneDrive\1ano\2semestre\Prog_ori_obj\Trabalho1\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Inês\OneDrive\1ano\2semestre\Prog_ori_obj\Trabalho1\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\Inês\OneDrive\1ano\2semestre\Prog_ori_obj\Trabalho1\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Inês\Downloads\Projeto (1)\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\Inês\Downloads\Projeto (1)\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\Inês\Downloads\Projeto (1)\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Inês\Downloads\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Inês\Downloads\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\Inês\Downloads\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\Inês\Downloads\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Inês\Downloads\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Inês\Downloads\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\Inês\Downloads\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Inês\Downloads\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\Inês\Downloads\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\Inês\Downloads\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Inês\Downloads\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Inês\Downloads\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\Inês\Downloads\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\Inês\Downloads\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Inês\Downloads\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Inês\Downloads\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\Inês\Downloads\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Inês\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\Inês\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\Inês\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Inês\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Inês\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\Inês\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\Inês\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Inês\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Inês\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\Inês\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.pdb

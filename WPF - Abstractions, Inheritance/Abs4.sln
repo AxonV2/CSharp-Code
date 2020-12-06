@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abs4", "Abs4\Abs4.csproj", "{A89D5888-6DBF-4E39-A0EA-1772B7FEAF11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abs4CL", "Abs4CL\Abs4CL.csproj", "{5E9E0563-B71B-49CC-BE67-8A3E01C46358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89D5888-6DBF-4E39-A0EA-1772B7FEAF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89D5888-6DBF-4E39-A0EA-1772B7FEAF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89D5888-6DBF-4E39-A0EA-1772B7FEAF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89D5888-6DBF-4E39-A0EA-1772B7FEAF11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9E0563-B71B-49CC-BE67-8A3E01C46358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9E0563-B71B-49CC-BE67-8A3E01C46358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9E0563-B71B-49CC-BE67-8A3E01C46358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9E0563-B71B-49CC-BE67-8A3E01C46358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75167E81-BA21-4127-B1F2-80F9152CD839}
+	EndGlobalSection
+EndGlobal

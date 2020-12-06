@@ -1,0 +1,24 @@
+C:\Users\ASUS\Desktop\trabalho_de_grupo_AEBD\bin\Debug\netcoreapp3.1\Semana3.exe
+C:\Users\ASUS\Desktop\trabalho_de_grupo_AEBD\bin\Debug\netcoreapp3.1\Semana3.deps.json
+C:\Users\ASUS\Desktop\trabalho_de_grupo_AEBD\bin\Debug\netcoreapp3.1\Semana3.runtimeconfig.json
+C:\Users\ASUS\Desktop\trabalho_de_grupo_AEBD\bin\Debug\netcoreapp3.1\Semana3.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\trabalho_de_grupo_AEBD\bin\Debug\netcoreapp3.1\Semana3.dll
+C:\Users\ASUS\Desktop\trabalho_de_grupo_AEBD\bin\Debug\netcoreapp3.1\Semana3.pdb
+C:\Users\ASUS\Desktop\trabalho_de_grupo_AEBD\obj\Debug\netcoreapp3.1\Semana3.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\trabalho_de_grupo_AEBD\obj\Debug\netcoreapp3.1\Semana3.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\trabalho_de_grupo_AEBD\obj\Debug\netcoreapp3.1\Semana3.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\trabalho_de_grupo_AEBD\obj\Debug\netcoreapp3.1\Semana3.dll
+C:\Users\ASUS\Desktop\trabalho_de_grupo_AEBD\obj\Debug\netcoreapp3.1\Semana3.pdb
+C:\Users\luisg\Desktop\C# Code\Selection + Bubble Sort\bin\Debug\netcoreapp3.1\Semana3.exe
+C:\Users\luisg\Desktop\C# Code\Selection + Bubble Sort\bin\Debug\netcoreapp3.1\Semana3.deps.json
+C:\Users\luisg\Desktop\C# Code\Selection + Bubble Sort\bin\Debug\netcoreapp3.1\Semana3.runtimeconfig.json
+C:\Users\luisg\Desktop\C# Code\Selection + Bubble Sort\bin\Debug\netcoreapp3.1\Semana3.runtimeconfig.dev.json
+C:\Users\luisg\Desktop\C# Code\Selection + Bubble Sort\bin\Debug\netcoreapp3.1\Semana3.dll
+C:\Users\luisg\Desktop\C# Code\Selection + Bubble Sort\bin\Debug\netcoreapp3.1\Semana3.pdb
+C:\Users\luisg\Desktop\C# Code\Selection + Bubble Sort\obj\Debug\netcoreapp3.1\Semana3.csprojAssemblyReference.cache
+C:\Users\luisg\Desktop\C# Code\Selection + Bubble Sort\obj\Debug\netcoreapp3.1\Semana3.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\C# Code\Selection + Bubble Sort\obj\Debug\netcoreapp3.1\Semana3.AssemblyInfo.cs
+C:\Users\luisg\Desktop\C# Code\Selection + Bubble Sort\obj\Debug\netcoreapp3.1\Semana3.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\C# Code\Selection + Bubble Sort\obj\Debug\netcoreapp3.1\Semana3.dll
+C:\Users\luisg\Desktop\C# Code\Selection + Bubble Sort\obj\Debug\netcoreapp3.1\Semana3.pdb
+C:\Users\luisg\Desktop\C# Code\Selection + Bubble Sort\obj\Debug\netcoreapp3.1\Semana3.genruntimeconfig.cache

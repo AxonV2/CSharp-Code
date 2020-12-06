@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Abs4/1.0.0": {
+        "dependencies": {
+          "Abs4CL": "1.0.0",
+          "LibraryTest": "1.0.0.0"
+        },
+        "runtime": {
+          "Abs4.dll": {}
+        }
+      },
+      "Abs4CL/1.0.0": {
+        "runtime": {
+          "Abs4CL.dll": {}
+        }
+      },
+      "LibraryTest/1.0.0.0": {
+        "runtime": {
+          "LibraryTest.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abs4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abs4CL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryTest/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

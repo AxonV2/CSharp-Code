@@ -1,0 +1,9 @@
+C:\Users\luisg\Desktop\C# Code\WPF - Abstractions, Inheritance\Abs4CL\bin\Debug\netstandard2.0\Abs4CL.deps.json
+C:\Users\luisg\Desktop\C# Code\WPF - Abstractions, Inheritance\Abs4CL\bin\Debug\netstandard2.0\Abs4CL.dll
+C:\Users\luisg\Desktop\C# Code\WPF - Abstractions, Inheritance\Abs4CL\bin\Debug\netstandard2.0\Abs4CL.pdb
+C:\Users\luisg\Desktop\C# Code\WPF - Abstractions, Inheritance\Abs4CL\obj\Debug\netstandard2.0\Abs4CL.csprojAssemblyReference.cache
+C:\Users\luisg\Desktop\C# Code\WPF - Abstractions, Inheritance\Abs4CL\obj\Debug\netstandard2.0\Abs4CL.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\C# Code\WPF - Abstractions, Inheritance\Abs4CL\obj\Debug\netstandard2.0\Abs4CL.AssemblyInfo.cs
+C:\Users\luisg\Desktop\C# Code\WPF - Abstractions, Inheritance\Abs4CL\obj\Debug\netstandard2.0\Abs4CL.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\C# Code\WPF - Abstractions, Inheritance\Abs4CL\obj\Debug\netstandard2.0\Abs4CL.dll
+C:\Users\luisg\Desktop\C# Code\WPF - Abstractions, Inheritance\Abs4CL\obj\Debug\netstandard2.0\Abs4CL.pdb

@@ -1,0 +1,38 @@
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\bin\Debug\netcoreapp3.1\AsyncTesting.exe
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\bin\Debug\netcoreapp3.1\AsyncTesting.deps.json
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\bin\Debug\netcoreapp3.1\AsyncTesting.runtimeconfig.json
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\bin\Debug\netcoreapp3.1\AsyncTesting.runtimeconfig.dev.json
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\bin\Debug\netcoreapp3.1\AsyncTesting.dll
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\bin\Debug\netcoreapp3.1\AsyncTesting.pdb
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.csprojAssemblyReference.cache
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting_MarkupCompile.cache
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting_MarkupCompile.lref
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.g.resources
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.AssemblyInfo.cs
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.dll
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.pdb
+C:\Users\luisg\Desktop\Escola\Programação Orientada a Objetos\AsyncTesting\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.genruntimeconfig.cache
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\bin\Debug\netcoreapp3.1\AsyncTesting.exe
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\bin\Debug\netcoreapp3.1\AsyncTesting.deps.json
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\bin\Debug\netcoreapp3.1\AsyncTesting.runtimeconfig.json
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\bin\Debug\netcoreapp3.1\AsyncTesting.runtimeconfig.dev.json
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\bin\Debug\netcoreapp3.1\AsyncTesting.dll
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\bin\Debug\netcoreapp3.1\AsyncTesting.pdb
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.csprojAssemblyReference.cache
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting_MarkupCompile.cache
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting_MarkupCompile.lref
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.g.resources
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.AssemblyInfo.cs
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.dll
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.pdb
+C:\Users\luisg\Desktop\C# Code\WPF - Async Reference\AsyncTesting\obj\Debug\netcoreapp3.1\AsyncTesting.genruntimeconfig.cache

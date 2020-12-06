@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">First Kotlin Exercises</string>
+
+    <string name="tvAndroid">ANDROID KOTLIN</string>
+    <string name="tvNome">Luís</string>
+    <string name="tvNum1">Número 1:</string>
+    <string name="tvNum2">Número 2:</string>
+
+    <string name="etNum1">Primeiro Número</string>
+    <string name="etNum2">Segundo Número</string>
+
+    <string-array name="ValArray">
+        <item>T1</item>
+        <item>T2</item>
+        <item>T3</item>
+    </string-array>
+
+
+    <string name="bExe1">Exercício 1</string>
+    <string name="bExe2">Exercício 2</string>
+    <string name="bExe3">Exercício 3</string>
+    <string name="bAlterar">Alterar</string>
+    <string name="bSoma">Soma</string>
+    <string name="bSub">Subtração</string>
+    <string name="bMult">Multiplicação</string>
+    <string name="bDiv">Divisão</string>
+    <string name="bCalc">Calcular</string>
+    <string name="bExe4">Exercício 4</string>
+    <string name="clear">CLEAR</string>
+    <string name="back">Back</string>
+    <string name="div">/</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="mult">*</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="min">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="plus">+</string>
+    <string name="_0">0</string>
+    <string name="dot">.</string>
+    <string name="equ">=</string>
+
+    <string-array name="oprSpinner">
+        <item>Soma</item>
+        <item>Subtração</item>
+        <item>Multiplicação</item>
+        <item>Divisão</item>
+    </string-array>
+</resources>

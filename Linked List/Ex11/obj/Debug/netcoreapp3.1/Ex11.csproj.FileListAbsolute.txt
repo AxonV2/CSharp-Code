@@ -1,0 +1,39 @@
+C:\Users\Inês Silva\Desktop\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\bin\Debug\netcoreapp3.1\Ex11.exe
+C:\Users\Inês Silva\Desktop\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\bin\Debug\netcoreapp3.1\Ex11.deps.json
+C:\Users\Inês Silva\Desktop\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\bin\Debug\netcoreapp3.1\Ex11.runtimeconfig.json
+C:\Users\Inês Silva\Desktop\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\bin\Debug\netcoreapp3.1\Ex11.runtimeconfig.dev.json
+C:\Users\Inês Silva\Desktop\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\bin\Debug\netcoreapp3.1\Ex11.dll
+C:\Users\Inês Silva\Desktop\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\bin\Debug\netcoreapp3.1\Ex11.pdb
+C:\Users\Inês Silva\Desktop\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.csprojAssemblyReference.cache
+C:\Users\Inês Silva\Desktop\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.csproj.CoreCompileInputs.cache
+C:\Users\Inês Silva\Desktop\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.AssemblyInfoInputs.cache
+C:\Users\Inês Silva\Desktop\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.AssemblyInfo.cs
+C:\Users\Inês Silva\Desktop\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.dll
+C:\Users\Inês Silva\Desktop\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.pdb
+C:\Users\Inês Silva\Desktop\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.genruntimeconfig.cache
+C:\Users\luisg\Desktop\Escola\Algoritmos e Estruturas de Dados\Semana 10\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\bin\Debug\netcoreapp3.1\Ex11.exe
+C:\Users\luisg\Desktop\Escola\Algoritmos e Estruturas de Dados\Semana 10\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\bin\Debug\netcoreapp3.1\Ex11.deps.json
+C:\Users\luisg\Desktop\Escola\Algoritmos e Estruturas de Dados\Semana 10\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\bin\Debug\netcoreapp3.1\Ex11.runtimeconfig.json
+C:\Users\luisg\Desktop\Escola\Algoritmos e Estruturas de Dados\Semana 10\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\bin\Debug\netcoreapp3.1\Ex11.runtimeconfig.dev.json
+C:\Users\luisg\Desktop\Escola\Algoritmos e Estruturas de Dados\Semana 10\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\bin\Debug\netcoreapp3.1\Ex11.dll
+C:\Users\luisg\Desktop\Escola\Algoritmos e Estruturas de Dados\Semana 10\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\bin\Debug\netcoreapp3.1\Ex11.pdb
+C:\Users\luisg\Desktop\Escola\Algoritmos e Estruturas de Dados\Semana 10\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.csprojAssemblyReference.cache
+C:\Users\luisg\Desktop\Escola\Algoritmos e Estruturas de Dados\Semana 10\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\Escola\Algoritmos e Estruturas de Dados\Semana 10\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.AssemblyInfo.cs
+C:\Users\luisg\Desktop\Escola\Algoritmos e Estruturas de Dados\Semana 10\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\Escola\Algoritmos e Estruturas de Dados\Semana 10\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.dll
+C:\Users\luisg\Desktop\Escola\Algoritmos e Estruturas de Dados\Semana 10\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.pdb
+C:\Users\luisg\Desktop\Escola\Algoritmos e Estruturas de Dados\Semana 10\Ex11 - Alínea 2 (Luís Mendes, Bruno Almeida, Inês Silva, Rui Folha)\Ex11\obj\Debug\netcoreapp3.1\Ex11.genruntimeconfig.cache
+C:\Users\luisg\Desktop\C# Code\LinkedList\Ex11\bin\Debug\netcoreapp3.1\Ex11.exe
+C:\Users\luisg\Desktop\C# Code\LinkedList\Ex11\bin\Debug\netcoreapp3.1\Ex11.deps.json
+C:\Users\luisg\Desktop\C# Code\LinkedList\Ex11\bin\Debug\netcoreapp3.1\Ex11.runtimeconfig.json
+C:\Users\luisg\Desktop\C# Code\LinkedList\Ex11\bin\Debug\netcoreapp3.1\Ex11.runtimeconfig.dev.json
+C:\Users\luisg\Desktop\C# Code\LinkedList\Ex11\bin\Debug\netcoreapp3.1\Ex11.dll
+C:\Users\luisg\Desktop\C# Code\LinkedList\Ex11\bin\Debug\netcoreapp3.1\Ex11.pdb
+C:\Users\luisg\Desktop\C# Code\LinkedList\Ex11\obj\Debug\netcoreapp3.1\Ex11.csprojAssemblyReference.cache
+C:\Users\luisg\Desktop\C# Code\LinkedList\Ex11\obj\Debug\netcoreapp3.1\Ex11.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\C# Code\LinkedList\Ex11\obj\Debug\netcoreapp3.1\Ex11.AssemblyInfo.cs
+C:\Users\luisg\Desktop\C# Code\LinkedList\Ex11\obj\Debug\netcoreapp3.1\Ex11.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\C# Code\LinkedList\Ex11\obj\Debug\netcoreapp3.1\Ex11.dll
+C:\Users\luisg\Desktop\C# Code\LinkedList\Ex11\obj\Debug\netcoreapp3.1\Ex11.pdb
+C:\Users\luisg\Desktop\C# Code\LinkedList\Ex11\obj\Debug\netcoreapp3.1\Ex11.genruntimeconfig.cache
