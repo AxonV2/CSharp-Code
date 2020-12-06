@@ -48,3 +48,13 @@ C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Deb
 C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
 C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.exe
 C:\Users\Inês Silva\Desktop\1ano\2semestre\Prog_ori_obj\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\luisg\Desktop\C# Code\First Project\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\luisg\Desktop\C# Code\First Project\Projeto\bin\Debug\Projeto.exe
+C:\Users\luisg\Desktop\C# Code\First Project\Projeto\bin\Debug\Projeto.pdb
+C:\Users\luisg\Desktop\C# Code\First Project\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\luisg\Desktop\C# Code\First Project\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\luisg\Desktop\C# Code\First Project\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\luisg\Desktop\C# Code\First Project\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\luisg\Desktop\C# Code\First Project\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\C# Code\First Project\Projeto\obj\Debug\Projeto.exe
+C:\Users\luisg\Desktop\C# Code\First Project\Projeto\obj\Debug\Projeto.pdb

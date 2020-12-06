@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisg\\Desktop\\C# Code\\LinkedList\\Ex11\\Ex11.csproj",
+      "projectUniqueName": "C:\\Users\\luisg\\Desktop\\C# Code\\Linked List\\Ex11\\Ex11.csproj",
       "projectName": "Ex11",
-      "projectPath": "C:\\Users\\luisg\\Desktop\\C# Code\\LinkedList\\Ex11\\Ex11.csproj",
+      "projectPath": "C:\\Users\\luisg\\Desktop\\C# Code\\Linked List\\Ex11\\Ex11.csproj",
       "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisg\\Desktop\\C# Code\\LinkedList\\Ex11\\obj\\",
+      "outputPath": "C:\\Users\\luisg\\Desktop\\C# Code\\Linked List\\Ex11\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "Z:\\Microsoft\\Xamarin\\NuGet\\"

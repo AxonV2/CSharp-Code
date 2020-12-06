@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisg\\Desktop\\C# Code\\Hashing and Algorithms\\Ex12\\Ex12.csproj": {}
+    "C:\\Users\\luisg\\Desktop\\C# Code\\Class Library\\LibraryTest\\LibraryTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisg\\Desktop\\C# Code\\Hashing and Algorithms\\Ex12\\Ex12.csproj": {
+    "C:\\Users\\luisg\\Desktop\\C# Code\\Class Library\\LibraryTest\\LibraryTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisg\\Desktop\\C# Code\\Hashing and Algorithms\\Ex12\\Ex12.csproj",
-        "projectName": "Ex12",
-        "projectPath": "C:\\Users\\luisg\\Desktop\\C# Code\\Hashing and Algorithms\\Ex12\\Ex12.csproj",
+        "projectUniqueName": "C:\\Users\\luisg\\Desktop\\C# Code\\Class Library\\LibraryTest\\LibraryTest.csproj",
+        "projectName": "LibraryTest",
+        "projectPath": "C:\\Users\\luisg\\Desktop\\C# Code\\Class Library\\LibraryTest\\LibraryTest.csproj",
         "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisg\\Desktop\\C# Code\\Hashing and Algorithms\\Ex12\\obj\\",
+        "outputPath": "C:\\Users\\luisg\\Desktop\\C# Code\\Class Library\\LibraryTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "Z:\\Microsoft\\Xamarin\\NuGet\\"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,16 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,11 +61,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
